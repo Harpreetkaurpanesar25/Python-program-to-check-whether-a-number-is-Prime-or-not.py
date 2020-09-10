@@ -1,5 +1,5 @@
 # Python-program-to-check-whether-a-number-is-Prime-or-not.py 
-n=int(input())
+n=int(input()) 
 if n<0:
     print(n, "is not a prime number")
   
